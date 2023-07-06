@@ -18,12 +18,11 @@ The graphics library is used to render the game elements on the screen, and keyb
 - X   - Exii
 
 
-https://github.com/isratjahan829/SnakeGame-In-Java/assets/120164134/cdf83c55-6d92-4e24-ab15-9db6d174726c
-
-
-
 ## Preview
-(https://github.com/isratjahan829/SnakeGame-In-Java/assets/120164134/cdf83c55-6d92-4e24-ab15-9db6d174726c)
+
+https://github.com/isratjahan829/SnakeGame-In-Java/assets/120164134/fca89f24-e2f1-43a7-9b67-8553cabc71c7
+
+
 
 ## Requirements
 
