@@ -28,7 +28,7 @@ https://github.com/isratjahan829/SnakeGame-In-Java/assets/120164134/fca89f24-e2f
 
 #### Must Have (dependencies)
 - SFML 2.4.0 or above - http://www.sfml-dev.org/
-##### Linux
+- Geaphics.h
    
 #### MS Build
  * CodeBlocks
