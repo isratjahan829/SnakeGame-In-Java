@@ -5,9 +5,21 @@
 A classic snake game made in C++ using Graphics.h & sfml library.
 It will be a good way to learn about different aspect of development with C++ for a beginer.
 
+This is a simple Snake game implemented in C++ using the graphics library. The game features a snake that moves around the screen and eats fruits to score points. The objective is to control the snake and avoid colliding with its own tail or the game's boundaries.
+The game starts with an introduction screen, and then prompts the player to select the difficulty level (easy, medium, or hard). The snake's speed varies based on the chosen difficulty. The game includes features such as score tracking, game over detection, and the option to restart after a game over.
+The graphics library is used to render the game elements on the screen, and keyboard inputs are used to control the snake's movement. The game loop continues until the player chooses to exit.
 
-## Vedio: 
-![snacks game](https://github.com/isratjahan829/SnakeGame-In-Java/assets/120164134/acf0c1d9-f7b4-4d9a-a2a7-8e02b80adb40)
+## Controls
+
+- A    - Right
+- D    - Left
+- S    - Up
+- W    - Down
+- X   - Exii
+
+
+## Preview
+![snake_preview](https://user-images.githubusercontent.com/6799254/69679342-8df2a780-10b0-11ea-9999-20b23b5791ba.gif)
 
 ## Requirements
 
@@ -35,23 +47,3 @@ It will be a good way to learn about different aspect of development with C++ fo
   * Then Run and enjoy
   
  
-## Contribution
- 
-  * Lot's of work remaining.
-     * GUI Menu (see https://github.com/ParadoxZero/GameMenu-cpp)
-     * Settings and user data save system.
-     * Sound
-  * In case you are woundering about the extra complication in moving snake -
-      That is done in order to smoothen the animation of movement. To have slower/ variable speed of snake
-      in *Higher framerate*
-
-Feel free to fork, fix the issues and contribute. Help is always welcome.
-
-This is a simple Snake game implemented in C++ using the graphics library. The game features a snake that moves around the screen and eats fruits to score points. The objective is to control the snake and avoid colliding with its own tail or the game's boundaries.
-
-The game starts with an introduction screen, and then prompts the player to select the difficulty level (easy, medium, or hard). The snake's speed varies based on the chosen difficulty. The game includes features such as score tracking, game over detection, and the option to restart after a game over.
-
-The graphics library is used to render the game elements on the screen, and keyboard inputs are used to control the snake's movement. The game loop continues until the player chooses to exit.
-
-
-![snacks game](https://github.com/isratjahan829/SnakeGame-In-Java/assets/120164134/acf0c1d9-f7b4-4d9a-a2a7-8e02b80adb40)
