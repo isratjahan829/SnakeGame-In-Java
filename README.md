@@ -19,7 +19,7 @@ The graphics library is used to render the game elements on the screen, and keyb
 
 
 ## Preview
-![snake_preview](https://user-images.githubusercontent.com/6799254/69679342-8df2a780-10b0-11ea-9999-20b23b5791ba.gif)
+![snake_preview](https://github.com/isratjahan829/SnakeGame-In-Java/blob/main/SnakesGame%20Preview.mp4)
 
 ## Requirements
 
